@@ -13,21 +13,7 @@ h2{
 .somos{
     background-color: black;
 }
-.avion{
-    width: 20px;
-    height: 20px;
-        fill:white;
-}
-.montana{
-    width: 20px;
-    height: 20px;
-        fill:white;
-}
-.recorrido{
-    width: 20px;
-    height: 20px;
-        fill:white;
-}
+
 p{
     color:white
 }
@@ -36,7 +22,15 @@ p{
     display:block
 }
 
-.card-body{
+svg{
+    width: 20px;
+    height: 20px;
+        fill:white;
+}
 
-    bg-info ;
+.btn{
+    width: 250px;
+    height: 30px;
+    background-color: aqua;
+    color:white;
 }
