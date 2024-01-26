@@ -32,9 +32,6 @@ p{
     color:white
 }
 
-.svg, p {
-    display:block;
-}
-.row{
-    display:inline-block;
+.col-md-4{
+    display:block
 }
