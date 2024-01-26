@@ -5,4 +5,36 @@
 h2{
     background-color: black;
     color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 600;
+    text-align: center;
+}
+.somos{
+    background-color: black;
+}
+.avion{
+    width: 20px;
+    height: 20px;
+        fill:white;
+}
+.montana{
+    width: 20px;
+    height: 20px;
+        fill:white;
+}
+.recorrido{
+    width: 20px;
+    height: 20px;
+        fill:white;
+}
+p{
+    color:white
+}
+
+.svg, p {
+    display:block;
+}
+.row{
+    display:inline-block;
 }
