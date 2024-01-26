@@ -1,3 +1,8 @@
+*{
+    background-color: black;
+    color:white;
+}
+
 .navbar-custom{
     background-color:transparent;
 }
@@ -34,4 +39,9 @@ p{
 
 .col-md-4{
     display:block
+}
+
+.card-body{
+
+    bg-info ;
 }
